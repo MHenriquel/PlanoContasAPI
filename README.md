@@ -19,7 +19,7 @@ Abra o SQL Server e crie o Banco de Dados **PlanoContasDB**:
 
 ![image](https://github.com/user-attachments/assets/ebed5f0b-2565-402d-a597-9256f545078a)
 
-Feito isso, abra o script anexado para criar a tabela **PlanoContas**:
+Feito isso, abra o script de dentro da pasta BancodeDados, conforme imagem, para criar a tabela **PlanoContas**:
 ![image](https://github.com/user-attachments/assets/d42d3bb7-a904-4a4a-99eb-1e631b3335aa)
 
 ![image](https://github.com/user-attachments/assets/73cf84de-934d-49a2-b651-f94247aa65a6)
