@@ -45,7 +45,7 @@ Feito isso, a solução irá se abrir conforme print abaixo
 
 
 > ## Rodar a aplicação
-Para rodar a aplicação, vá até a pasta clonada e abra o arquivo .sln, conforme imagem:
+Para rodar a aplicação, vá até a pasta clonada e abra, se não estiver aberta já, o arquivo .sln, conforme imagem:
 ![image](https://github.com/user-attachments/assets/69601720-77ac-479f-a516-128bcf388d8a)
 
 
