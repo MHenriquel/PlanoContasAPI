@@ -4,8 +4,11 @@
 
 Serão necessários para rodar a API os seguintes programas:
 **VS2022**
+
 **GIT** 
+
 **SQL Server Express**
+
 
 
 
