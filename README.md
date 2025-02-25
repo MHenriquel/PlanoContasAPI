@@ -3,7 +3,8 @@
 > Atachar base de dados
 
 > Clonar Repositório
-Acessar o link 
+
+Com o git bash fazendo o git clone ou através do VSCode ou VS2022 fazer a clonagem através da [https://github.com/MHenriquel/PlanoContasAPI.git]
 
 
 > Abrir API 
