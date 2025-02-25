@@ -13,7 +13,41 @@ Serão necessários para rodar a API os seguintes programas:
 
 
 
-> ## Atachar base de dados
+> ## Criar base de dados
+Abra o SQL Server e crie o Banco de Dados **PlanoContasDB**:
+![image](https://github.com/user-attachments/assets/f66e56ae-aea0-4770-a5ac-8e31b495e2d7)
+
+![image](https://github.com/user-attachments/assets/ebed5f0b-2565-402d-a597-9256f545078a)
+
+Feito isso, abra o script anexado para criar a tabela **PlanoContas**:
+![image](https://github.com/user-attachments/assets/d42d3bb7-a904-4a4a-99eb-1e631b3335aa)
+
+![image](https://github.com/user-attachments/assets/73cf84de-934d-49a2-b651-f94247aa65a6)
+
+Dê dois cliques no arquivo mostrado:
+
+![image](https://github.com/user-attachments/assets/16e5fabe-fe32-4897-ba86-fa4e1c7da152)
+
+E execute o script:
+
+![image](https://github.com/user-attachments/assets/fd7688d2-8e6c-4085-8e49-14a69c2b0f3c)
+
+Será criada a tabela:
+
+![image](https://github.com/user-attachments/assets/0b5297dc-8108-4eb5-ac38-5ba12a45c1f1)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
