@@ -19,7 +19,8 @@ Serão necessários para rodar a API os seguintes programas:
 
 > ## Clonar Repositório
 
-Com o git bash fazendo o git clone ou através do VSCode ou VS2022 fazer a clonagem através da [https://github.com/MHenriquel/PlanoContasAPI.git]
+Com o git bash, execute o comando git clone ou através do VS2022 faça a clonagem através da url [https://github.com/MHenriquel/PlanoContasAPI.git]
+
 Crie uma pasta dentro do C:\ e clone o repositório:
 
 ### Git Bash:
