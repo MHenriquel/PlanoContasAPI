@@ -45,7 +45,11 @@ Feito isso, a solução irá se abrir conforme print abaixo
 
 
 > ## Rodar a aplicação
-Para rodar a aplicação, basta clicar no botão RUN para compilar e abrir a API:
+Para rodar a aplicação, vá até a pasta clonada e abra o arquivo .sln, conforme imagem:
+![image](https://github.com/user-attachments/assets/69601720-77ac-479f-a516-128bcf388d8a)
+
+
+Depois de ter aberto a solução, basta clicar no botão RUN para compilar e abrir a API:
 
 ![image](https://github.com/user-attachments/assets/e66ac245-9ef1-4378-b84b-a0939f1760ac)
 
