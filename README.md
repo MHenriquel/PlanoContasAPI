@@ -11,7 +11,10 @@ Serão necessários para rodar a API os seguintes programas:
 **SQL Server Express**
 <br>
 <br>
-
+<br>
+<br>
+<br>
+<br>
 
 > ## Criar base de dados
 Abra o SQL Server e crie o Banco de Dados **PlanoContasDB**:
