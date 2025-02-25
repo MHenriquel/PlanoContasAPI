@@ -7,9 +7,13 @@ Serão necessários para rodar a API os seguintes programas:
 ### GIT 
 ### SQL Server Express
 
-> Atachar base de dados
 
-> Clonar Repositório
+
+> ## Atachar base de dados
+
+
+
+> ## Clonar Repositório
 
 Com o git bash fazendo o git clone ou através do VSCode ou VS2022 fazer a clonagem através da [https://github.com/MHenriquel/PlanoContasAPI.git]
 Crie uma pasta dentro do C:\ e clone o repositório:
@@ -35,7 +39,7 @@ Feito isso, a solução irá se abrir conforme print abaixo
 ![image](https://github.com/user-attachments/assets/3ae2e39d-aa0c-4b49-b575-e3db018d918c)
 
 
-> Rodar a aplicação
+> ## Rodar a aplicação
 Para rodar a aplicação, basta clicar no botão RUN para compilar e abrir a API:
 
 ![image](https://github.com/user-attachments/assets/e66ac245-9ef1-4378-b84b-a0939f1760ac)
